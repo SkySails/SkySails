@@ -74,4 +74,4 @@ class About extends Me {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkySails&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Coding Activity
-[![SkySails's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SkySails)](https://github.com/anuraghazra/github-readme-stats)
+[![SkySails's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SkySails&v=2)](https://github.com/anuraghazra/github-readme-stats)
