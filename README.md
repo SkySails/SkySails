@@ -5,7 +5,7 @@
 - 🎓 I'm currently taking a Full Stack Developer course at [Chas Academy](https://chasacademy.se/)
 
 ## My story
-My name is Malte and i am a self-taught web developer currently certifying my knowledge by taking a 2-year Full Stack Developer course. I made my first site using HTML and CSS at the age of 12, and since then I have been determined to build out every idea I could possibly think of. Now, several years and personal projects later, I've taught myself how to use frameworks such as React, React Native, Angular adn Web Components with associated concepts like components, global state management and Shadow/Virtual DOM using online courses, blogs, books and videos.
+My name is Malte and i am a self-taught web developer currently certifying my knowledge by taking a 2-year Full Stack Developer course. I made my first site using HTML and CSS at the age of 12, and since then I have been determined to build out every idea I could possibly think of. Now, several years and personal projects later, I've taught myself how to use frameworks such as React, React Native, Angular and Web Components with associated concepts like components, global state management and Shadow/Virtual DOM using online courses, blogs, books and videos.
 
 ## My values
 To me, personal development is just as important as teamwork, and I learn the most when sharing my knowledge with others. As a developer, I strive to create modern, functional and responsive experiences for the user while producing creative, structured and meaningful code.
