@@ -33,7 +33,7 @@ class About extends Me {
         "HTML",
         "CSS",
         "NodeJS",
-        Firebase
+        "Firebase"
       ]
 
     this.personalWebsites = [
