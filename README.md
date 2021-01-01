@@ -21,6 +21,10 @@ class About extends Me {
       {
         company: "Skyfox Interactive",
         position: "Full Stack Developer"
+      },
+      {
+        company: "Navigraph",
+        position: "Technical Support Assistant"
       }
     );
 
