@@ -24,30 +24,13 @@ class About extends Me {
       }
     );
 
-    this.getCurrentSkills = () => (
-      [
-        {
-          type: "JavaScript",
-          level: "☕️☕️☕️☕️☕️"
-        },
-        {
-          type: "HTML",
-          level: "☕️☕️☕️☕️☕️"
-        },
-        {
-          type: "CSS",
-          level: "☕️☕️☕️☕️"
-        },
-        {
-          type: "NodeJS",
-          level: "☕️☕️☕️☕️"
-        },
-        {
-          type: "Firebase",
-          level: "☕️☕️☕️☕️"
-        },
+    this.getCurrentSkills = [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "NodeJS",
+        Firebase
       ]
-    );
 
     this.personalWebsites = [
       {
