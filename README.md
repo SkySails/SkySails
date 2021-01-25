@@ -24,7 +24,7 @@ class About extends Me {
       },
       {
         company: "Navigraph",
-        position: "Technical Support Assistant"
+        position: "Software Engineer and Technical Support Assistant"
       }
     );
 
