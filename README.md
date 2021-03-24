@@ -1,7 +1,7 @@
 # Hi there! Welcome to my ✨ special ✨ profile!
 
 - 🔭 I’m currently working on a web portal for time reports
-- 🌱 I’m currently learning Svelte and Web Components
+- 🌱 I’m currently learning Amazon AWS, Angular and React/Next.JS
 - 🎓 I'm currently taking a Full Stack Developer course at [Chas Academy](https://chasacademy.se/)
 
 ## My story
