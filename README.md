@@ -29,9 +29,9 @@ class About extends Me {
     );
 
     this.getCurrentSkills = [
-        "JavaScript",
-        "HTML",
-        "CSS",
+        "React",
+        "Angular",
+        "AWS",
         "NodeJS",
         "Firebase"
       ]
