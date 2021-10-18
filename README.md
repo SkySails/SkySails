@@ -1,14 +1,13 @@
-# Hi there! Welcome to my ✨ special ✨ profile!
+# Hi there! Welcome to this very special page of mine.
 
-- 🔭 I’m currently working on a web portal for time reports
-- 🌱 I’m currently learning Amazon AWS, Angular and React/Next.JS
-- 🎓 I'm currently taking a Full Stack Developer course at [Chas Academy](https://chasacademy.se/)
+- ✈️ I’m currently working on a a multitude of aviation-related navigation utilities and APIs.
+- 🌱 I’m currently exploring Amazon AWS, React/Next.JS and React Native.
 
 ## My story
-My name is Malte and i am a self-taught web developer currently certifying my knowledge by taking a 2-year Full Stack Developer course. I made my first site using HTML and CSS at the age of 12, and since then I have been determined to build out every idea I could possibly think of. Now, several years and personal projects later, I've taught myself how to use frameworks such as React, React Native, Angular and Web Components with associated concepts like components, global state management and Shadow/Virtual DOM using online courses, blogs, books and videos.
+My name is Malte and i am a 20-year-old self-taught web developer. I made my first site using HTML and CSS at the age of 12, and since then I have been determined to build out every idea I could possibly think of. Now, several years and personal projects later, I've expanded my knowledge by incrementally exploring technologies like Web Components all the way to popular frameworks sucha as React, React Native and Angular. Additionally, I have become comfortble enough with the AWS infrastructure and backend frameworks like Express and NestJS to deploy full-stack applications without much hesitation. I've also become a huge fan of TypeScript, and throughout all my projects you will find that my commits keep to the [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) standard!
 
 ## My values
-To me, personal development is just as important as teamwork, and I learn the most when sharing my knowledge with others. As a developer, I strive to create modern, functional and responsive experiences for the user while producing creative, structured and meaningful code.
+To me, personal development is just as important as teamwork. I love sharing my knowledge with others, as it scratches all the right spots - most importantly contribution to my community and self-growth. As a developer, I strive to create accessible, functional and responsive experiences for the user while producing readable, structured and meaningful code.
 
 
 ## About me
@@ -16,8 +15,8 @@ To me, personal development is just as important as teamwork, and I learn the mo
 ```javascript
 
 class About extends Me {
-  constructor() {
-    this.getCurrentWorkplace = () => (
+  get currentWorkplace() {
+    return [
       {
         company: "Skyfox Interactive",
         position: "Full Stack Developer"
@@ -26,28 +25,50 @@ class About extends Me {
         company: "Navigraph",
         position: "Software Engineer and Technical Support"
       }
-    );
+    ]
+  }
 
-    this.getCurrentSkills = [
+  get hardSkills() {
+    return {
+      frameworks: [
         "React",
         "Angular",
-        "AWS",
-        "NodeJS",
-        "Firebase"
+        "Svelte",
+        "NextJS",
+        "NestJS",
+        "Express",
+      ],
+      
+      ciPlatforms: [
+        "AWS Lambda, EC2, ECS",
+        "GitHub Actions",
+        "Travis CI"
+        "Netlify",
+        "Heroku",
+        "Vercel",
       ]
 
-    this.personalWebsites = [
-      {
-        type: "Portfolio", 
-        url: "https://hallstrom.dev/"
-      },
-      {
-        type: "Blog",
-        url: "https://blog.hallstrom.dev/",
-        note: "Under construction 🚧"
-      }
-    ];
-
+      languages: [
+        "TypeScript",
+        "JavaScript",
+        "Bash",
+        "C++",
+        "Swedish",
+        "English",
+      ]
+    }
+  }
+  
+  get softSkills() {
+    return [
+      "Service-minded",
+      "Creative",
+      "Problem-solver",
+      "Dedicated",
+      "Resourceful",
+      "Mentoring",
+      "Enthusiastic",
+    ]
   }
 }
 ```
