@@ -46,7 +46,7 @@ class About extends Me {
         "Netlify",
         "Heroku",
         "Vercel",
-      ]
+      ],
 
       languages: [
         "TypeScript",
