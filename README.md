@@ -40,7 +40,6 @@ class About extends Me {
       ],
       
       ciPlatforms: [
-        "AWS Lambda, EC2, ECS",
         "GitHub Actions",
         "Travis CI"
         "Netlify",
